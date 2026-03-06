@@ -45,8 +45,7 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
-
+![Dashboard Preview](DashboardOverview.png.png)
 ---
 
 ## 🔍 Key Insights
